@@ -23,7 +23,10 @@
     
 3.Each different employee category has different access levels
 
+## Relational data model
+
 ![Alt text](https://github.com/praveendhananjaya/hospital-managment-system/blob/main/doc/database.png?raw=true)
 
+![Alt text](https://github.com/praveendhananjaya/hospital-managment-system/blob/main/doc/Database%20for%20Hospital%20Management%20System.png?raw=true)
 
 
