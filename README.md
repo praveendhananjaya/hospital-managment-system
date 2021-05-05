@@ -1,5 +1,8 @@
 # hospital-managment-system
 
+
+![Alt text](https://github.com/praveendhananjaya/hospital-managment-system/blob/main/doc/billing.gif?raw=true)
+
 ## Introduction
 
 1.In a hospital, it is essential to keep records of patients and staff.
@@ -28,5 +31,15 @@
 ![Alt text](https://github.com/praveendhananjaya/hospital-managment-system/blob/main/doc/database.png?raw=true)
 
 ![Alt text](https://github.com/praveendhananjaya/hospital-managment-system/blob/main/doc/database2.png?raw=true)
+
+
+## Test
+
+
+![Alt text](https://github.com/praveendhananjaya/hospital-managment-system/blob/main/doc/abmit_patient.gif?raw=true)
+
+![Alt text](https://github.com/praveendhananjaya/hospital-managment-system/blob/main/doc/patient_number.gif?raw=true)
+
+![Alt text](https://github.com/praveendhananjaya/hospital-managment-system/blob/main/doc/ward_view.gif?raw=true)
 
 
