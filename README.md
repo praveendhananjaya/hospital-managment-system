@@ -23,7 +23,7 @@
     
 3.Each different employee category has different access levels
 
-
+![Alt text](https://github.com/praveendhananjaya/hospital-managment-system/blob/main/doc/database.png?raw=true)
 
 
 
