@@ -15,6 +15,7 @@
 1.Patients - No access
 
 2.Employees are categorized into different categories
+                  
     a.Doctors
     b.Nursing staff
     c.Clerical Staff
