@@ -1,5 +1,7 @@
 # hospital-managment-system
 
+hospital management system using MySQL , PHP. This system is able to manage hospital resources without starving the services. While handling all the cashiers’ workers
+
 
 ![Alt text](https://github.com/praveendhananjaya/hospital-managment-system/blob/main/doc/billing.gif?raw=true)
 
